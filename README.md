@@ -1,2 +1,3 @@
 Hello Git
-\nGit is very popular version control system
+Git is very popular version control system
+This is third line
